@@ -1,0 +1,7 @@
+Army             7234
+Navy             5200
+Marine           6500
+Air Force        8765
+Merchant Marine  345
+Coast Guard      676
+^Z
